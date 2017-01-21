@@ -1,0 +1,8 @@
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\Problem 2 – Take the plane down27.10.2016.21.40\bin\Debug\Problem 2 – Take the plane down27.10.2016.21.40.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\Problem 2 – Take the plane down27.10.2016.21.40\bin\Debug\Problem 2 – Take the plane down27.10.2016.21.40.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\Problem 2 – Take the plane down27.10.2016.21.40\bin\Debug\Problem 2 – Take the plane down27.10.2016.21.40.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\Problem 2 – Take the plane down27.10.2016.21.40\bin\Debug\Problem 2 – Take the plane down27.10.2016.21.40.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\Problem 2 – Take the plane down27.10.2016.21.40\bin\Debug\Problem 2 – Take the plane down27.10.2016.21.40.exe.lastcodeanalysissucceeded
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\Problem 2 – Take the plane down27.10.2016.21.40\obj\Debug\Problem 2 – Take the plane down27.10.2016.21.40.csprojResolveAssemblyReference.cache
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\Problem 2 – Take the plane down27.10.2016.21.40\obj\Debug\Problem 2 – Take the plane down27.10.2016.21.40.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\Problem 2 – Take the plane down27.10.2016.21.40\obj\Debug\Problem 2 – Take the plane down27.10.2016.21.40.pdb

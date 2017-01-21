@@ -1,0 +1,8 @@
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure1.11.2016.19.53\bin\Debug\4.PointInFigure1.11.2016.19.53.exe.config
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure1.11.2016.19.53\obj\Debug\4.PointInFigure1.11.2016.19.53.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure1.11.2016.19.53\obj\Debug\4.PointInFigure1.11.2016.19.53.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure1.11.2016.19.53\bin\Debug\4.PointInFigure1.11.2016.19.53.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure1.11.2016.19.53\bin\Debug\4.PointInFigure1.11.2016.19.53.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure1.11.2016.19.53\bin\Debug\4.PointInFigure1.11.2016.19.53.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure1.11.2016.19.53\bin\Debug\4.PointInFigure1.11.2016.19.53.exe.lastcodeanalysissucceeded
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure1.11.2016.19.53\obj\Debug\4.PointInFigure1.11.2016.19.53OutVariant.csprojResolveAssemblyReference.cache

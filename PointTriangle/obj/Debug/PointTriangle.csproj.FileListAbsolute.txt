@@ -1,0 +1,8 @@
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\PointTriangle\bin\Debug\PointTriangle.exe.config
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\PointTriangle\bin\Debug\PointTriangle.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\PointTriangle\bin\Debug\PointTriangle.pdb
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\PointTriangle\obj\Debug\PointTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\PointTriangle\obj\Debug\PointTriangle.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\PointTriangle\obj\Debug\PointTriangle.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\PointTriangle\bin\Debug\PointTriangle.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\PointTriangle\bin\Debug\PointTriangle.exe.lastcodeanalysissucceeded

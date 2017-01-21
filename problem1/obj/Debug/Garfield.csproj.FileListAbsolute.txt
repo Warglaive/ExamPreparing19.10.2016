@@ -1,0 +1,7 @@
+c:\users\attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\problem1\bin\Debug\problem1.exe.config
+c:\users\attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\problem1\bin\Debug\problem1.exe
+c:\users\attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\problem1\bin\Debug\problem1.pdb
+c:\users\attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\problem1\obj\Debug\problem1.exe
+c:\users\attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\problem1\obj\Debug\problem1.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\problem1\bin\Debug\problem1.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\problem1\bin\Debug\problem1.exe.lastcodeanalysissucceeded

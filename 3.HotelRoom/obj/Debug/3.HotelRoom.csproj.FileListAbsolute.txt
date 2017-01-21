@@ -1,0 +1,7 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\3.HotelRoom\bin\Debug\3.HotelRoom.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\3.HotelRoom\bin\Debug\3.HotelRoom.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\3.HotelRoom\bin\Debug\3.HotelRoom.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\3.HotelRoom\obj\Debug\3.HotelRoom.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\3.HotelRoom\obj\Debug\3.HotelRoom.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\3.HotelRoom\bin\Debug\3.HotelRoom.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\3.HotelRoom\bin\Debug\3.HotelRoom.exe.lastcodeanalysissucceeded

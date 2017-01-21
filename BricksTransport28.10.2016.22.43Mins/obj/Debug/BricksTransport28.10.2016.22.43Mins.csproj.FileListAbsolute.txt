@@ -1,0 +1,8 @@
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\BricksTransport28.10.2016.22.43Mins\bin\Debug\BricksTransport28.10.2016.22.43Mins.exe.config
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\BricksTransport28.10.2016.22.43Mins\bin\Debug\BricksTransport28.10.2016.22.43Mins.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\BricksTransport28.10.2016.22.43Mins\bin\Debug\BricksTransport28.10.2016.22.43Mins.pdb
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\BricksTransport28.10.2016.22.43Mins\obj\Debug\BricksTransport28.10.2016.22.43Mins.csprojResolveAssemblyReference.cache
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\BricksTransport28.10.2016.22.43Mins\obj\Debug\BricksTransport28.10.2016.22.43Mins.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\BricksTransport28.10.2016.22.43Mins\obj\Debug\BricksTransport28.10.2016.22.43Mins.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\BricksTransport28.10.2016.22.43Mins\bin\Debug\BricksTransport28.10.2016.22.43Mins.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\BricksTransport28.10.2016.22.43Mins\bin\Debug\BricksTransport28.10.2016.22.43Mins.exe.lastcodeanalysissucceeded

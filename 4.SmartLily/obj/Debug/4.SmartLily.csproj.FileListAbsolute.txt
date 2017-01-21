@@ -1,0 +1,7 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.SmartLily\bin\Debug\4.SmartLily.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.SmartLily\bin\Debug\4.SmartLily.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.SmartLily\bin\Debug\4.SmartLily.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.SmartLily\obj\Debug\4.SmartLily.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.SmartLily\obj\Debug\4.SmartLily.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.SmartLily\bin\Debug\4.SmartLily.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.SmartLily\bin\Debug\4.SmartLily.exe.lastcodeanalysissucceeded

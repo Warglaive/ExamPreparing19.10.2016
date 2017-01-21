@@ -1,0 +1,6 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.Devided\bin\Debug\4.Devided.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.Devided\bin\Debug\4.Devided.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.Devided\bin\Debug\4.Devided.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.Devided\obj\Debug\1.ClassRoom.csprojResolveAssemblyReference.cache
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.Devided\obj\Debug\4.Devided.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.Devided\obj\Debug\4.Devided.pdb

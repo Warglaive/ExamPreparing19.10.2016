@@ -1,0 +1,7 @@
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure20.30InVariant\bin\Debug\4.PointInFigure20.30InVariant.exe.config
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure20.30InVariant\bin\Debug\4.PointInFigure20.30InVariant.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure20.30InVariant\bin\Debug\4.PointInFigure20.30InVariant.pdb
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure20.30InVariant\obj\Debug\4.PointInFigure20.30InVariant.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure20.30InVariant\obj\Debug\4.PointInFigure20.30InVariant.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure20.30InVariant\bin\Debug\4.PointInFigure20.30InVariant.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.PointInFigure20.30InVariant\bin\Debug\4.PointInFigure20.30InVariant.exe.lastcodeanalysissucceeded

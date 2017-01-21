@@ -1,0 +1,7 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\1.DailyProfit12.11.2013.21.35\bin\Debug\1.DailyProfit12.11.2013.21.35.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\1.DailyProfit12.11.2013.21.35\bin\Debug\1.DailyProfit12.11.2013.21.35.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\1.DailyProfit12.11.2013.21.35\bin\Debug\1.DailyProfit12.11.2013.21.35.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\1.DailyProfit12.11.2013.21.35\obj\Debug\1.DailyProfit12.11.2013.21.35.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\1.DailyProfit12.11.2013.21.35\obj\Debug\1.DailyProfit12.11.2013.21.35.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\1.DailyProfit12.11.2013.21.35\bin\Debug\1.DailyProfit12.11.2013.21.35.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\1.DailyProfit12.11.2013.21.35\bin\Debug\1.DailyProfit12.11.2013.21.35.exe.lastcodeanalysissucceeded

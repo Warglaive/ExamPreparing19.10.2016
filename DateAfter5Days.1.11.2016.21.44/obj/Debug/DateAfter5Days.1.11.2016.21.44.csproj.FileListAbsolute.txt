@@ -1,0 +1,7 @@
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\DateAfter5Days.1.11.2016.21.44\bin\Debug\DateAfter5Days.1.11.2016.21.44.exe.config
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\DateAfter5Days.1.11.2016.21.44\bin\Debug\DateAfter5Days.1.11.2016.21.44.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\DateAfter5Days.1.11.2016.21.44\bin\Debug\DateAfter5Days.1.11.2016.21.44.pdb
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\DateAfter5Days.1.11.2016.21.44\obj\Debug\DateAfter5Days.1.11.2016.21.44.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\DateAfter5Days.1.11.2016.21.44\obj\Debug\DateAfter5Days.1.11.2016.21.44.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\DateAfter5Days.1.11.2016.21.44\bin\Debug\DateAfter5Days.1.11.2016.21.44.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\DateAfter5Days.1.11.2016.21.44\bin\Debug\DateAfter5Days.1.11.2016.21.44.exe.lastcodeanalysissucceeded

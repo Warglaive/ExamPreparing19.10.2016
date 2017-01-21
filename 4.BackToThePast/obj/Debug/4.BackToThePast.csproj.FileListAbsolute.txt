@@ -1,0 +1,6 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.BackToThePast\bin\Debug\4.BackToThePast.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.BackToThePast\bin\Debug\4.BackToThePast.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.BackToThePast\bin\Debug\4.BackToThePast.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.BackToThePast\obj\Debug\4.BackToThePast.csprojResolveAssemblyReference.cache
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.BackToThePast\obj\Debug\4.BackToThePast.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.BackToThePast\obj\Debug\4.BackToThePast.pdb

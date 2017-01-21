@@ -1,0 +1,7 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\torrentPirate9.11.2016.20.13\bin\Debug\torrentPirate9.11.2016.20.13.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\torrentPirate9.11.2016.20.13\bin\Debug\torrentPirate9.11.2016.20.13.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\torrentPirate9.11.2016.20.13\bin\Debug\torrentPirate9.11.2016.20.13.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\torrentPirate9.11.2016.20.13\obj\Debug\torrentPirate9.11.2016.20.13.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\torrentPirate9.11.2016.20.13\obj\Debug\torrentPirate9.11.2016.20.13.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\torrentPirate9.11.2016.20.13\bin\Debug\torrentPirate9.11.2016.20.13.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\torrentPirate9.11.2016.20.13\bin\Debug\torrentPirate9.11.2016.20.13.exe.lastcodeanalysissucceeded

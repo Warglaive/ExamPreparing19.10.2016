@@ -1,0 +1,8 @@
+c:\users\attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\EncodedAnswers-19.10.2016\bin\Debug\EncodedAnswers-19.10.2016.exe.config
+c:\users\attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\EncodedAnswers-19.10.2016\bin\Debug\EncodedAnswers-19.10.2016.exe
+c:\users\attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\EncodedAnswers-19.10.2016\bin\Debug\EncodedAnswers-19.10.2016.pdb
+c:\users\attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\EncodedAnswers-19.10.2016\obj\Debug\EncodedAnswers-19.10.2016.csprojResolveAssemblyReference.cache
+c:\users\attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\EncodedAnswers-19.10.2016\obj\Debug\EncodedAnswers-19.10.2016.exe
+c:\users\attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\EncodedAnswers-19.10.2016\obj\Debug\EncodedAnswers-19.10.2016.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\EncodedAnswers-19.10.2016\bin\Debug\EncodedAnswers-19.10.2016.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\EncodedAnswers-19.10.2016\bin\Debug\EncodedAnswers-19.10.2016.exe.lastcodeanalysissucceeded

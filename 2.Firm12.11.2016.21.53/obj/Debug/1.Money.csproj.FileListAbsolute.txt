@@ -1,0 +1,7 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\2.Firm12.11.2016.21.53\bin\Debug\2.Firm12.11.2016.21.53.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\2.Firm12.11.2016.21.53\bin\Debug\2.Firm12.11.2016.21.53.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\2.Firm12.11.2016.21.53\bin\Debug\2.Firm12.11.2016.21.53.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\2.Firm12.11.2016.21.53\bin\Debug\2.Firm12.11.2016.21.53.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\2.Firm12.11.2016.21.53\bin\Debug\2.Firm12.11.2016.21.53.exe.lastcodeanalysissucceeded
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\2.Firm12.11.2016.21.53\obj\Debug\2.Firm12.11.2016.21.53.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\2.Firm12.11.2016.21.53\obj\Debug\2.Firm12.11.2016.21.53.pdb

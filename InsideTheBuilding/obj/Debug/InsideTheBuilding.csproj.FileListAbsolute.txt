@@ -1,0 +1,7 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\InsideTheBuilding\bin\Debug\InsideTheBuilding.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\InsideTheBuilding\obj\Debug\InsideTheBuilding.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\InsideTheBuilding\obj\Debug\InsideTheBuilding.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe.lastcodeanalysissucceeded

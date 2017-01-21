@@ -1,0 +1,8 @@
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\PointOnSegment28.10.2016.23.30Mins\bin\Debug\PointOnSegment28.10.2016.23.30Mins.exe.config
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\PointOnSegment28.10.2016.23.30Mins\bin\Debug\PointOnSegment28.10.2016.23.30Mins.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\PointOnSegment28.10.2016.23.30Mins\bin\Debug\PointOnSegment28.10.2016.23.30Mins.pdb
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\PointOnSegment28.10.2016.23.30Mins\obj\Debug\PointOnSegment28.10.2016.23.30Mins.csprojResolveAssemblyReference.cache
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\PointOnSegment28.10.2016.23.30Mins\obj\Debug\PointOnSegment28.10.2016.23.30Mins.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\PointOnSegment28.10.2016.23.30Mins\obj\Debug\PointOnSegment28.10.2016.23.30Mins.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\PointOnSegment28.10.2016.23.30Mins\bin\Debug\PointOnSegment28.10.2016.23.30Mins.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\PointOnSegment28.10.2016.23.30Mins\bin\Debug\PointOnSegment28.10.2016.23.30Mins.exe.lastcodeanalysissucceeded

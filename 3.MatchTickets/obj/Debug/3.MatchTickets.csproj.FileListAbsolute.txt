@@ -1,0 +1,7 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\3.MatchTickets\bin\Debug\3.MatchTickets.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\3.MatchTickets\bin\Debug\3.MatchTickets.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\3.MatchTickets\bin\Debug\3.MatchTickets.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\3.MatchTickets\obj\Debug\3.MatchTickets.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\3.MatchTickets\obj\Debug\3.MatchTickets.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\3.MatchTickets\bin\Debug\3.MatchTickets.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\3.MatchTickets\bin\Debug\3.MatchTickets.exe.lastcodeanalysissucceeded

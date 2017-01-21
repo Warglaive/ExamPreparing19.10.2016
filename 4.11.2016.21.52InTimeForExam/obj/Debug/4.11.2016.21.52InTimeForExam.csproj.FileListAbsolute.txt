@@ -1,0 +1,7 @@
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\4.11.2016.21.52InTimeForExam\bin\Debug\4.11.2016.21.52InTimeForExam.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.11.2016.21.52InTimeForExam\bin\Debug\4.11.2016.21.52InTimeForExam.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.11.2016.21.52InTimeForExam\bin\Debug\4.11.2016.21.52InTimeForExam.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.11.2016.21.52InTimeForExam\obj\Debug\4.11.2016.21.52InTimeForExam.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.11.2016.21.52InTimeForExam\obj\Debug\4.11.2016.21.52InTimeForExam.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.11.2016.21.52InTimeForExam\bin\Debug\4.11.2016.21.52InTimeForExam.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\4.11.2016.21.52InTimeForExam\bin\Debug\4.11.2016.21.52InTimeForExam.exe.lastcodeanalysissucceeded

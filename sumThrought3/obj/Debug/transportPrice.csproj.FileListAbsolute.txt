@@ -1,0 +1,7 @@
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\sumThrought3\bin\Debug\sumThrought3.exe.config
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\sumThrought3\bin\Debug\sumThrought3.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\sumThrought3\bin\Debug\sumThrought3.pdb
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\sumThrought3\obj\Debug\sumThrought3.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\ExamPreparing19.10.2016\sumThrought3\obj\Debug\sumThrought3.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\sumThrought3\bin\Debug\sumThrought3.exe.CodeAnalysisLog.xml
+C:\Users\Attractivee\documents\visual studio 2015\Projects\ExamPreparing19.10.2016\sumThrought3\bin\Debug\sumThrought3.exe.lastcodeanalysissucceeded
